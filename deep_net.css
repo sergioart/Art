@@ -10,7 +10,7 @@ body {background: black;
 	table{margin:auto;	
 		height: 100%;}
 
-	#img1{background:url("img/v2.png") no-repeat;}	
+	#img1{background:url("https://2.downloader.disk.yandex.ua/preview/98cecbba98c8c4d8a3338f96ddee4816375fc06bd0f0ea8bd2d6dcb2f61e6e82/inf/3qreOTN8mr7jifiK1tf9I8uSEXI8NZO4a46qonA5ToxqKbzUNfvY6gANK9YYa18MFLSoFlDGhVtrSNlnJXC_PQ%3D%3D?uid=0&filename=v2.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&size=XXL") no-repeat;}	
 	#img1{width: 136px;
 		  height: 629px;
 		  background-repeat: no-repeat;}
@@ -20,7 +20,7 @@ body {background: black;
 			   /* transform-origin: right bottom; */
 			   }
 		
-	#t1{background:url("img/main_text_sprite.png") no-repeat;}
+	#t1{background:url("https://1.downloader.disk.yandex.ua/preview/60a8cffdfaba1aa662d69edfb192ff9484768380509387380fcea5317190a404/inf/3qreOTN8mr7jifiK1tf9I25pE0yx9KN4OrVC58CePr4B2ou4HuA6rRPSzvfukUPMlO_Unddp87BztMan-4rXzg%3D%3D?uid=0&filename=favicon.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&size=1163x679") no-repeat;}
 	#t1{width: 273px;
 		height: 65px;
 		background-position: 0px 0px;}	
