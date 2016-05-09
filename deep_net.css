@@ -1,0 +1,30 @@
+ * {margin: 0; padding: 0;} 
+
+@media (max-width: 480px) {#img1{display:none;}}
+
+body {background: black; 
+	 height: 100%;
+	 width:  100%;
+	 position: fixed;}
+
+	table{margin:auto;	
+		height: 100%;}
+
+	#img1{background:url("img/v2.png") no-repeat;}	
+	#img1{width: 136px;
+		  height: 629px;
+		  background-repeat: no-repeat;}
+	#img1:hover{background-position: -136px 0px;}
+	#img1:active{
+				/* transform: rotate(90deg); */
+			   /* transform-origin: right bottom; */
+			   }
+		
+	#t1{background:url("img/main_text_sprite.png") no-repeat;}
+	#t1{width: 273px;
+		height: 65px;
+		background-position: 0px 0px;}	
+	#t1:hover{background-position: 0px -65px;}
+	#t1:active{}
+
+footer{background: transparent;}
